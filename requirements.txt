@@ -1,3 +1,4 @@
+audioop-lts
 altair==5.5.0
 annotated-types==0.7.0
 anyio==4.9.0
@@ -32,7 +33,7 @@ pyarrow==20.0.0
 pydantic==2.11.7
 pydantic_core==2.33.2
 pydeck==0.9.1
-pydub==0.25.1
+pydub<0.25.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pytz==2025.2
